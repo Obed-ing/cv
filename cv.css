@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 2em;
+}
+
+h2{
+    margin-left: 10px;
+}
+.ditha{
+    display: flex;
+    list-style: none;
+    padding-left: 30px;
+    
+}
+
+
+.presentation li{
+    padding-left: -65px;
+    list-style: none;
+}
+
+.reponses li{
+    padding-left: 200px;
+    list-style-type: none;
+}
+
+
+.professio{
+    display: flex;
+}
+.typ{
+    padding-left: 300px;
+}
+
+.nate{
+    padding-left: 300px;
+}
+
+.dia{
+    padding-left: 300px;
+}
+.pe{
+    padding-left: 300px;
+}
+
+
+
+
+.ta{
+    padding-bottom: 10px;
+}
+
+img{
+    margin-top: 10px;
+    padding-left: 100px;
+}
+#love.ta{
+    border: 0.5px solid grey;
+}
+
+h3{
+    margin-left: -65px;
+}
+
+div{
+    padding-left: 10px;
+}
+
+
+
+
